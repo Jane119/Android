@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="ic_describe">天气图片</string>
+    <string name="city_icon">城市图标</string>
+    <string name="nonce_city">当前城市</string>
+    <string name="city_list">城市 （长按可删除）</string>
+    <string name="choose">选项</string>
+    <string name="add_city">添加城市</string>
+    <string name="setting">设置</string>
+    <string name="welcome_text_11">欢迎使用</string>
+    <string name="welcome_text_12">Simple Weather</string>
+    <string name="welcome_text_13">- · · ·</string>
+    <string name="welcome_text_21">简洁不失个性</string>
+    <string name="welcome_text_22">Customization</string>
+    <string name="welcome_text_23">· - · ·</string>
+    <string name="welcome_text_31">轻巧不失优雅</string>
+    <string name="welcome_text_32">Elegance</string>
+    <string name="welcome_text_33">· · - ·</string>
+    <string name="welcome_text_41">在这里，只有天气</string>
+    <string name="welcome_text_42">Only</string>
+    <string name="welcome_text_43">· · · -</string>
+    <string name="welcome_start">立即体验</string>
+</resources>
